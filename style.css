@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 微軟正黑體;
+    color: white;
 }
 
 html, body {
@@ -11,4 +12,11 @@ html, body {
 body {
     background-image: url(bg.jpg);
     background-size: cover;
+}
+.nav ul {
+    display: inline-block;
+    float: right;
+}
+.nav ul li {
+    display: inline-block;
 }
