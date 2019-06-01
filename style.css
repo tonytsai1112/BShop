@@ -116,3 +116,12 @@ body {
     position: fixed;
     bottom: 0;
 }
+
+/* 關於我 */
+.box {
+    width: 100%;
+    height: 500px;
+    background-image: url(about.jpg);
+    background-size: cover;
+    margin-top: 100px;
+}
