@@ -131,3 +131,16 @@ body {
     box-sizing: border-box;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
+
+/* 商品 */
+.box-fifty {
+    width: 50%;
+    height: 400px;
+    background-size: cover;
+}
+.bakery1 {
+    background-image: url(bakery1.jpg);
+}
+.bakery2 {
+    background-image: url(bakery2.jpg);
+}
