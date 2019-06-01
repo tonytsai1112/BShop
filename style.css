@@ -3,7 +3,7 @@
     margin: 0;
     font-family: 微軟正黑體;
     color: white;
-    border: 1px solid rgba(0, 0, 0, 0);
+    border: 0px solid rgba(0, 0, 0, 0);
     text-shadow: 0 3px 5px rgba(0, 0, 0, 0.8);
     font-weight: 900;
 }
@@ -137,6 +137,12 @@ body {
     width: 50%;
     height: 400px;
     background-size: cover;
+    float: left;
+    text-align: center;
+    line-height: 400px;
+    font-size: 30px;
+    margin-top: 100px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 .bakery1 {
     background-image: url(bakery1.jpg);
